@@ -1,0 +1,120 @@
+h1{
+    color:white;
+    font-size: 80pt;
+    margin-top: 95pt;
+}
+
+h2 {
+    color:white;
+    font-size: 50pt;
+    margin-right: 30pt;
+}
+
+h3 {
+    font-size:30pt; 
+    text-align: center;
+
+}
+
+#UtahPhoto {
+    width: 1900px;
+    height: 500px; 
+    position: absolute;
+}
+
+.text-overlay {
+    position: absolute; 
+    top: 20%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+}
+#SundancePhoto {
+    width: 330px;
+    height: 500px;
+    margin-left: 315px;
+}
+
+h5{
+    font-size: 15pt;
+    text-align: left;
+    margin-right: 1200px;
+    margin-left: 300px;
+
+}
+
+p {
+    font-size: 20pt;
+    left: 600px;
+}
+
+p2 {
+    font-size: 20pt;
+    text-align: right;
+    margin-left: 1200px;
+    margin-top: 10pt;
+
+}
+
+#SaltFlatsPhoto {
+    width: 630px;
+    height: 500px; 
+    margin-right: 210px;
+    margin-left: 260px;
+}
+
+h6 {
+   font-size: 15pt; 
+   text-align: left;
+   margin-left: 900px;
+   margin-top: -215pt;
+   margin-right: 215pt;
+
+}
+
+ol {
+    text-align: center;
+}
+  
+ol li {
+    font-size: 29pt;
+    text-align: left;
+    list-style-position: inside;
+}
+
+iframe {
+    text-align: right;
+    margin-left: 800px;
+    margin-top: -243pt;
+}
+
+.center {
+    display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+}
+
+nav ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    margin-left: 85%;
+}
+
+nav li {
+    display: inline; 
+}
+
+nav li a {
+	display: inline-block; 
+    padding: 10px; 
+    color: rgb(28, 2, 2);
+    text-decoration: none; 
+	font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+nav li a:hover {
+    background-color: #555; 
+	}
+} 
